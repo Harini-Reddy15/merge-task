@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a6 in main
+=======
+this is a6 in first
+>>>>>>> first
